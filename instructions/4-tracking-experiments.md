@@ -15,7 +15,7 @@ learning pipeline configuration.
 2. Open the *"Environment Variables"* tab and configure the URL to the MLFlow
 tracking server and your tenant:
 
-  * `MLFLOW_TRACKING_URL = http://mlflow.cd4ml.net`
+  * git
   * `TENANT = userX` (replace `X` with your user ID)
 
   <kbd>![Configure ML pipeline to track with MLflow](./images/4-mlflow-setup.png)</kbd>
